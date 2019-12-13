@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
     <option name="userId" value="-258e915d:16f006d8fa5:-7ffd" />
+    <option name="version" value="4.9.2.1" />
   </component>
 </application>
